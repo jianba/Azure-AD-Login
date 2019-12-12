@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Microsoft-GitCode\\Azure-AD-Login\\Azure-AD-Login.csproj": {}
+    "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Azure-AD-Login\\Azure-AD-Login.csproj": {}
   },
   "projects": {
-    "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Microsoft-GitCode\\Azure-AD-Login\\Azure-AD-Login.csproj": {
+    "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Azure-AD-Login\\Azure-AD-Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Microsoft-GitCode\\Azure-AD-Login\\Azure-AD-Login.csproj",
+        "projectUniqueName": "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Azure-AD-Login\\Azure-AD-Login.csproj",
         "projectName": "Azure-AD-Login",
-        "projectPath": "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Microsoft-GitCode\\Azure-AD-Login\\Azure-AD-Login.csproj",
+        "projectPath": "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Azure-AD-Login\\Azure-AD-Login.csproj",
         "packagesPath": "C:\\Users\\szy\\.nuget\\packages\\",
-        "outputPath": "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Microsoft-GitCode\\Azure-AD-Login\\obj\\",
+        "outputPath": "C:\\0WorkBench\\1-code\\3-Aiursoft.com\\Azure-AD-Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
