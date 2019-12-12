@@ -1,7 +1,7 @@
 # Azure-AD-Login
 Login by use Microsoft Account.
 ```
-dotnet new mvc --auth SingleOrg --client-id 655424f4-de87-4f51-af65-60db7b1412c8 --tenant-id c1e2d45d-eb20-4f89-872f-ef0f49329ef2
+dotnet new mvc --auth SingleOrg --client-id <client-id> --tenant-id <tenant-id>
 ```
 ---
 services: active-directory
